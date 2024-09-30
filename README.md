@@ -1,5 +1,7 @@
 # **Explorando Git e GitHub**
 
+### Tá na branch "main" e vai dar conflito com a "desenvolvimento"
+
 ## **O que é Git?**
 O **Git** é um sistema de controle de versão distribuído, que permite o rastreamento de mudanças no código-fonte durante o desenvolvimento de software. Ele possibilita que múltiplos desenvolvedores trabalhem simultaneamente em um projeto, facilitando a colaboração e o versionamento do código.
 
