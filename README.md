@@ -11,3 +11,6 @@ O GitHub utiliza o Git como o sistema de controle de versão subjacente. Ou seja
 
 ## **Objetivo do Projeto**
 Este projeto tem como objetivo explorar as funcionalidades do **Git** e do **GitHub**, demonstrando como podemos utilizar o Git para versionar e colaborar no desenvolvimento de um software, além de entender os recursos que o GitHub oferece para facilitar essa colaboração.
+
+## **Nova branch "desenvolvimento"**
+Esta esta branch que está vendo possui alterações que, a princípio, não estão na branch principal **main**, incluindo esse trecho descritivo. As branchs possibilitam existir múltiplas versões de de um determinado projeto em diferentes períodos de tempo. Uma vez que essas implementações são concluídas elas são combinadas na branch principal do seu repositório
